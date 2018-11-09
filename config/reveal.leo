@@ -47,6 +47,31 @@
 <v t="leo.20181109115702.3"><vh>LaTeX 格式方程式</vh></v>
 </v>
 </v>
+<v t="leo.20181109152903.1" a="E"><vh>w5</vh>
+<v t="leo.20181109152903.2" a="E"><vh>w5</vh>
+<v t="leo.20181109152903.3"><vh>LaTeX 格式方程式</vh></v>
+</v>
+</v>
+<v t="leo.20181109154108.1" a="E"><vh>w6</vh>
+<v t="leo.20181109154108.2" a="E"><vh>w6</vh>
+<v t="leo.20181109154108.3"><vh>LaTeX 格式方程式</vh></v>
+</v>
+</v>
+<v t="leo.20181109154113.1" a="E"><vh>w7</vh>
+<v t="leo.20181109154113.2" a="E"><vh>w7</vh>
+<v t="leo.20181109154113.3"><vh>LaTeX 格式方程式</vh></v>
+</v>
+</v>
+<v t="leo.20181109154115.1" a="E"><vh>w8</vh>
+<v t="leo.20181109154115.2" a="E"><vh>w8</vh>
+<v t="leo.20181109154115.3"><vh>LaTeX 格式方程式</vh></v>
+</v>
+</v>
+<v t="leo.20181109154116.1" a="E"><vh>w9</vh>
+<v t="leo.20181109154116.2" a="E"><vh>w9</vh>
+<v t="leo.20181109154116.3"><vh>LaTeX 格式方程式</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -297,13 +322,9 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20181109115700.3"># 數學符號與方程式
+<t tx="leo.20181109115700.3">## Week 2
 
-Inline math equations go in like so: $\omega = d\phi / dt$. Display
-math should get its own line and be put in in double-dollarsigns:
-
-$$I = \int \rho R^{2} dV$$
-</t>
+學習如何管理期中作業倉儲的網站內容以及投影片內容，到期中的會操作期中考作業，管理自己的倉儲</t>
 <t tx="leo.20181109115702.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -320,13 +341,17 @@ $$I = \int \rho R^{2} dV$$
 
 						
 </t>
-<t tx="leo.20181109115702.3"># 數學符號與方程式
+<t tx="leo.20181109115702.3">## Week 4
 
-Inline math equations go in like so: $\omega = d\phi / dt$. Display
-math should get its own line and be put in in double-dollarsigns:
 
-$$I = \int \rho R^{2} dV$$
-</t>
+學習Onshape，發現其實與其它不同的軟體譬如*inventor等等這些軟體相似
+*extrude--拉伸
+*revolve--旋轉
+*symmetric--對稱
+*pattern--陣列
+*loft--斷面混層
+*sweep--掃掠
+*shell--薄殼</t>
 <t tx="leo.20181109115706.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -343,12 +368,117 @@ $$I = \int \rho R^{2} dV$$
 
 						
 </t>
-<t tx="leo.20181109115706.3"># 數學符號與方程式
+<t tx="leo.20181109115706.3">## Week 3
 
-Inline math equations go in like so: $\omega = d\phi / dt$. Display
-math should get its own line and be put in in double-dollarsigns:
 
-$$I = \int \rho R^{2} dV$$
+中秋節放假~</t>
+<t tx="leo.20181109152903.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
 </t>
+<t tx="leo.20181109152903.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181109152903.3">## Week 5
+
+
+
+這一週必須要了解到自己的設計意圖是什麼，如何設定尺寸以及去約束他，並且要正確和精準。
+
+</t>
+<t tx="leo.20181109154108.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181109154108.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181109154108.3">## Week 6
+
+
+
+複習week1~week5 onshape習題並了解需要用到的單字</t>
+<t tx="leo.20181109154113.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181109154113.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181109154113.3">## Week 7
+
+
+
+由於github在這禮拜突然故障，所以老師找出其他方法解決並探討
+</t>
+<t tx="leo.20181109154115.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181109154115.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181109154115.3">## Week 8
+
+
+
+複習onshape習題</t>
+<t tx="leo.20181109154116.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181109154116.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181109154116.3">## Week 9
+
+
+
+期中考週 期末專題分組 自評成績</t>
 </tnodes>
 </leo_file>
