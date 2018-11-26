@@ -245,29 +245,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 P37-18.11
 
-下載後, 將 stop.bat 改為下列內容:
-
-@echo off
-set Disk=y
-REM 關閉 SciTE
-taskkill /IM Sc1.exe /F
-REM 關閉 python
-taskkill /IM python.exe /F
-taskkill /IM pythonw.exe /F
-REM 關閉 stunnel
-REM taskkill /IM stunnel.exe /F
-REM 關閉 fossil
-REM taskkill /IM fossil.exe /F
-REM taskkill /IM sharex.exe /F
-REM 清除 log 資料
-path=%PATH%;
-REM del /Q /F  V:\tmp\*.*
-REM 終止虛擬硬碟與目錄的對應
-subst %Disk%: /D
-REM 關閉 cmd 指令視窗
-taskkill /IM cmd.exe /F
-REM taskkill /IM mingw32 /F
-EXIT
+下載後, 將 stop.bat 改掉
 
 
     </script>
