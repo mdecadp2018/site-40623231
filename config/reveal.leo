@@ -524,7 +524,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 P37-18.11
 
-下載後, 將 stop.bat 改掉
+下載新的p37後, 將 stop.bat 改掉
 
 
 </t>
