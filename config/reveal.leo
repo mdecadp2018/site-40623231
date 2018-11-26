@@ -72,6 +72,16 @@
 <v t="leo.20181109154116.3"><vh>LaTeX 格式方程式</vh></v>
 </v>
 </v>
+<v t="leo.20181126113424.1"><vh>w10</vh>
+<v t="leo.20181126113424.2" a="E"><vh>w10</vh>
+<v t="leo.20181126113424.3"><vh>LaTeX 格式方程式</vh></v>
+</v>
+</v>
+<v t="leo.20181126113608.1" a="E"><vh>w11</vh>
+<v t="leo.20181126113608.2" a="E"><vh>w11</vh>
+<v t="leo.20181126113608.3"><vh>LaTeX 格式方程式</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -211,7 +221,9 @@ Created by [KMOLab](http://lab.kmol.info/)
 </t>
 <t tx="leo.20180827201621.15">## Week 1
 
-* 建立一個新倉儲(學號.github.io),從https://github.com/mdecourse 中clone 2018fall,在將自己的github.io clone下來,將2018fall資料夾複製裡面的檔案,除了.git和README.me都貼到自己的資料夾,再利用git add . , git commit -m "名稱" , git push完成推送的動作。</t>
+* 建立一個新倉儲(學號.github.io),從https://github.com/mdecourse 中clone 2018fall,在將自己的github.io clone下來,將2018fall資料夾複製裡面的檔案,除了.git和README.me都貼到自己的資料夾,再利用git add . , git commit -m "名稱" , git push完成推送的動作。
+
+</t>
 <t tx="leo.20180827201621.2"></t>
 <t tx="leo.20180827201621.3">@language xml
 @tabwidth -4
@@ -324,7 +336,9 @@ Created by [KMOLab](http://lab.kmol.info/)
 </t>
 <t tx="leo.20181109115700.3">## Week 2
 
-學習如何管理期中作業倉儲的網站內容以及投影片內容，到期中的會操作期中考作業，管理自己的倉儲</t>
+學習如何管理期中作業倉儲的網站內容以及投影片內容，到期中的會操作期中考作業，管理自己的倉儲
+
+</t>
 <t tx="leo.20181109115702.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -351,7 +365,9 @@ Created by [KMOLab](http://lab.kmol.info/)
 *pattern--陣列
 *loft--斷面混層
 *sweep--掃掠
-*shell--薄殼</t>
+*shell--薄殼
+
+</t>
 <t tx="leo.20181109115706.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -371,7 +387,9 @@ Created by [KMOLab](http://lab.kmol.info/)
 <t tx="leo.20181109115706.3">## Week 3
 
 
-中秋節放假~</t>
+中秋節放假~
+
+</t>
 <t tx="leo.20181109152903.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -415,7 +433,9 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 
 
-複習week1~week5 onshape習題並了解需要用到的單字</t>
+複習week1~week5 onshape習題並了解需要用到的單字
+
+</t>
 <t tx="leo.20181109154113.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -458,7 +478,9 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 
 
-複習onshape習題</t>
+複習onshape習題
+
+</t>
 <t tx="leo.20181109154116.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -479,6 +501,78 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 
 
-期中考週 期末專題分組 自評成績</t>
+期中考週 期末專題分組 自評成績
+
+</t>
+<t tx="leo.20181126113424.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181126113424.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181126113424.3">## Week 10
+
+P37-18.11
+
+下載後, 將 stop.bat 改為下列內容:
+
+@echo off
+set Disk=y
+REM 關閉 SciTE
+taskkill /IM Sc1.exe /F
+REM 關閉 python
+taskkill /IM python.exe /F
+taskkill /IM pythonw.exe /F
+REM 關閉 stunnel
+REM taskkill /IM stunnel.exe /F
+REM 關閉 fossil
+REM taskkill /IM fossil.exe /F
+REM taskkill /IM sharex.exe /F
+REM 清除 log 資料
+path=%PATH%;
+REM del /Q /F  V:\tmp\*.*
+REM 終止虛擬硬碟與目錄的對應
+subst %Disk%: /D
+REM 關閉 cmd 指令視窗
+taskkill /IM cmd.exe /F
+REM taskkill /IM mingw32 /F
+EXIT
+
+
+</t>
+<t tx="leo.20181126113608.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181126113608.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181126113608.3">## Week 11
+
+分組討論各組要做的東西
+
+本組討論結果 3D列印機
+
+
+</t>
 </tnodes>
 </leo_file>

@@ -237,6 +237,66 @@ Created by [KMOLab](http://lab.kmol.info/)
 						
 </section>
 
+<section>
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+## Week 10
+
+P37-18.11
+
+下載後, 將 stop.bat 改為下列內容:
+
+@echo off
+set Disk=y
+REM 關閉 SciTE
+taskkill /IM Sc1.exe /F
+REM 關閉 python
+taskkill /IM python.exe /F
+taskkill /IM pythonw.exe /F
+REM 關閉 stunnel
+REM taskkill /IM stunnel.exe /F
+REM 關閉 fossil
+REM taskkill /IM fossil.exe /F
+REM taskkill /IM sharex.exe /F
+REM 清除 log 資料
+path=%PATH%;
+REM del /Q /F  V:\tmp\*.*
+REM 終止虛擬硬碟與目錄的對應
+subst %Disk%: /D
+REM 關閉 cmd 指令視窗
+taskkill /IM cmd.exe /F
+REM taskkill /IM mingw32 /F
+EXIT
+
+
+    </script>
+</section>
+
+
+
+						
+</section>
+
+<section>
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+## Week 11
+
+分組討論各組要做的東西
+
+本組討論結果 3D列印機
+
+
+    </script>
+</section>
+
+
+
+						
+</section>
+
 </div>
 
 </div>
